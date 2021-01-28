@@ -34,4 +34,3 @@ emoticon = library.keys.find do |key|
 end
 emoticon ? emoticon : "Sorry, that emoticon was not found"
 end
-end
